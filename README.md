@@ -1,5 +1,5 @@
 # Pseudo-network_of_Finances_and_services_project
-Term project for the course Big Data Architechture. Applications proccesing messages from pseudo-servers and sending results a database and an application proccesing the historical data of the database to create some statistical insights.
+Term project for the course Big Data Architechture. Pseudo-servers using Kafka, applications recieving and proccesing the messages sent from pseudo-servers while sending results to a database. Finally an application proccesing the historical data of the database to create some statistical insights.
 
 # Description
 This project is a setup of a network of financial and investment services of stock exchanges and investors as well as applications that analyse those data. This network can run in Hadoop and the components of the network are described below.
