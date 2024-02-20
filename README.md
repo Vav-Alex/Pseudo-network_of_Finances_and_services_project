@@ -2,7 +2,7 @@
 Term project for the course Big Data Architechture. Pseudo-servers using Kafka, applications recieving and proccesing the messages sent from pseudo-servers while sending results to a database. Finally an application proccesing the historical data of the database to create some statistical insights.
 
 # Description
-This project is a setup of a network of financial and investment services of stock exchanges and investors as well as applications that analyse those data. This network can run in Hadoop and the components of the network are described below.
+This project is a setup of a network of financial and investment services of stock exchanges and investors as well as applications that analyse those data. The components are described bellow.
 
 Note: Comments and descriptions are provided in all the python files for better understanding.
 
